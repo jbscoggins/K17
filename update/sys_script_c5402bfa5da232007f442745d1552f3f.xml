@@ -32,16 +32,17 @@
 
 	// Add your code here
    gs.addInfoMessage('Sample BR has run');
+   gs.debug('Goodbye');
 	
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-09 18:04:27</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c5402bfa5da232007f442745d1552f3f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Sample</sys_name>
         <sys_overrides/>
         <sys_package display_value="K17" source="x_snc_k17">be9e93ba5da232007f442745d1552f36</sys_package>
@@ -50,7 +51,7 @@
         <sys_scope display_value="K17">be9e93ba5da232007f442745d1552f36</sys_scope>
         <sys_update_name>sys_script_c5402bfa5da232007f442745d1552f3f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 18:04:27</sys_updated_on>
+        <sys_updated_on>2017-05-09 18:55:26</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
